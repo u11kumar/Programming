@@ -1,24 +1,21 @@
-create  3 advanced problems on each topic of data type of python ,,
-i want problems on 
+create 3 advanced problems on each topic of data type of python ,,
+i want problems on
+
 - strings
 - dict
 - tuples
 - sets
 - list
 
-
-
-
-I am installing lazyvim for neovim and the changes i want is (after  installing lazyvim)
+I am installing lazyvim for neovim and the changes i want is (after installing lazyvim)
 
 - multiselect or multicursor for replacing
-- installling a autocompleteion plugin which can suggest or define the function 
-- "tokyonight" should be the theme 
+- installling a autocompleteion plugin which can suggest or define the function
+- "tokyonight" should be the theme
 - autosave of after every 4s
-- install a plugin for live preview and markdown support 
+- install a plugin for live preview and markdown support
 
 suggests me all the plugins and settings which will be perfect for these requirements.
-
 
 Great list—broad, rich, and well-curated for someone entering an MBA program with ambitions beyond just grades. Here's a structured review:
 
@@ -153,7 +150,6 @@ Simple Path to Wealth – Collins
 Little Book of Common Sense Investing – Bogle
 I Will Teach You to Be Rich – Sethi
 The Millionaire Next Door – Stanley
-
 
 economy
 Freakonomics – Levitt & Dubner
