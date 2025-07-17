@@ -1,8 +1,8 @@
-distro="fedora"
+distro = "fedora"
 # string is immutable in python
 
-distro2=distro[1]
-distro3=distro[1:4]
+distro2 = distro[1]
+distro3 = distro[1:4]
 print(distro2)
 print(distro3)
 print(len(distro))

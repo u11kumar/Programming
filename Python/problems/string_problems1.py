@@ -1,4 +1,4 @@
-'''
+"""
 ### Problem 1: Most Frequent Word (ignoring case and punctuation)
 
 > Given a paragraph, return the most frequent word (ignore case and punctuation).
@@ -7,10 +7,11 @@
 text = "Python is great. Yes, PYTHON is really great!!"
 # Output: "python"
 ```
-'''
+"""
 
-from collections import Counter
 import string
+from collections import Counter
+
 
 def most_frequent_word(text):
     # Convert to lowercase
@@ -29,6 +30,6 @@ def most_frequent_word(text):
     # Return the most frequent word
     return counts.most_common(1)[0][0]
 
+
 text = "Hello world! Hello everyone. This world is beautiful."
 print(most_frequent_word(text))  # Output: "hello"
-
